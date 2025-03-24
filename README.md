@@ -1,2 +1,2 @@
 # me
-hi! this is my portfolio and resume as of 2024 Winter.
+hello! this is my portfolio and resume as of winter 2024
